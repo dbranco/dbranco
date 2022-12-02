@@ -10,7 +10,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/dbranco/dbranco/wiki" target="_blank">
-    <img align="center" src="https://www.svgrepo.com/download/245828/wikipedia.svg" alt="email" height="22px" width="22px" />
+    <img align="center" src="https://www.svgrepo.com/show/245828/wikipedia.svg" alt="email" height="22px" width="22px" />
   </a>
 </p>
 
