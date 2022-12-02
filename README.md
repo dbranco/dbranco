@@ -8,6 +8,10 @@
   <a href="mailto:dbranco@gmail.com" target="_blank">
     <img align="center" src="https://www.svgrepo.com/show/18904/mail.svg" alt="email" height="22px" width="22px" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/dbranco/dbranco/wiki" target="_blank">
+    <img align="center" src="https://www.svgrepo.com/download/245828/wikipedia.svg" alt="email" height="22px" width="22px" />
+  </a>
 </p>
 
 I am a son, a father, a boyfriend, an otaku and a developer. Love to learn everytime I can from everything sounround me, I have been lucky to learn from my kids, my girlfriend(and near future wife), colleagues and people from tech community. I am always keen to challenge whatever is presented in front of me and try to understand it and form my own opinion.
